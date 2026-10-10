@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhijit-programmer
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding & Editing
 - 🌱 I’m currently learning Python and HTML/CSS/JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
